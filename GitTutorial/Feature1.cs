@@ -11,6 +11,7 @@ namespace GitTutorial
         public static void Feature1Method()
         {
             Console.WriteLine("This is feature 1");
+            Console.WriteLine("This is feature 1-2");
         }
     }
 }
