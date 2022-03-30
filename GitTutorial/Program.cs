@@ -11,3 +11,4 @@ Console.WriteLine("Hey, I'm from squash branch too");
 Console.WriteLine("Wow, I'm also from squash branch");
 
 Console.WriteLine("something happended while rebase is preparing");
+Console.WriteLine("another thing happend while rebase is ready");
