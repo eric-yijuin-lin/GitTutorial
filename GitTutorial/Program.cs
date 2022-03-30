@@ -12,4 +12,5 @@ Console.WriteLine("Wow, I'm also from squash branch");
 
 Console.WriteLine("Preparing for rebase demo");
 Console.WriteLine("something happended while rebase is preparing");
+Console.WriteLine("Ready to demo rebase");
 Console.WriteLine("another thing happend while rebase is ready");
